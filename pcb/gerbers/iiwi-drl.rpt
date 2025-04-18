@@ -1,0 +1,29 @@
+Drill report for iiwi.kicad_pcb
+Created on 2025-04-18T11:13:46+1000
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'iiwi-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (60 holes)
+    T2  0.900mm  0.0354"  (1 hole)
+    T3  1.000mm  0.0394"  (14 holes)
+    T4  1.092mm  0.0430"  (3 holes)
+    T5  1.270mm  0.0500"  (60 holes)
+
+    Total plated holes count 138
+
+
+Drill file 'iiwi-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  1.702mm  0.0670"  (60 holes)
+    T2  2.200mm  0.0866"  (3 holes)
+    T3  3.429mm  0.1350"  (30 holes)
+
+    Total unplated holes count 93
